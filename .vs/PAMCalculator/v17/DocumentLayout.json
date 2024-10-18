@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|d:\\renan almeida 2ds\\2\u00B0 m\u00F3dulo\\renan almeida 2ds\\pam\\pamcalculator\\pamcalculator\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|solutionrelative:pamcalculator\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|d:\\renan almeida 2ds\\2\u00B0 m\u00F3dulo\\renan almeida 2ds\\pam\\pamcalculator\\pamcalculator\\views\\calculatorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|solutionrelative:pamcalculator\\views\\calculatorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|d:\\renan almeida 2ds\\2\u00B0 m\u00F3dulo\\renan almeida 2ds\\pam\\pamcalculator\\pamcalculator\\viewmodels\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|solutionrelative:pamcalculator\\viewmodels\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|d:\\renan almeida 2ds\\2\u00B0 m\u00F3dulo\\renan almeida 2ds\\pam\\pamcalculator\\pamcalculator\\views\\calculatorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|solutionrelative:pamcalculator\\views\\calculatorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|d:\\renan almeida 2ds\\2\u00B0 m\u00F3dulo\\renan almeida 2ds\\pam\\pamcalculator\\pamcalculator\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|solutionrelative:pamcalculator\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|d:\\renan almeida 2ds\\2\u00B0 m\u00F3dulo\\renan almeida 2ds\\pam\\pamcalculator\\pamcalculator\\pamcalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|solutionrelative:pamcalculator\\pamcalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|d:\\renan almeida 2ds\\2\u00B0 m\u00F3dulo\\renan almeida 2ds\\pam\\pamcalculator\\pamcalculator\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F31CDCE-AC74-443C-AF4B-4F0E7FC76011}|PAMCalculator\\PAMCalculator.csproj|solutionrelative:pamcalculator\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorViewModel.cs",
+              "DocumentMoniker": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\ViewModels\\CalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "PAMCalculator\\ViewModels\\CalculatorViewModel.cs",
+              "ToolTip": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\ViewModels\\CalculatorViewModel.cs",
+              "RelativeToolTip": "PAMCalculator\\ViewModels\\CalculatorViewModel.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvyEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:37:21.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorView.xaml",
+              "DocumentMoniker": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\Views\\CalculatorView.xaml",
+              "RelativeDocumentMoniker": "PAMCalculator\\Views\\CalculatorView.xaml",
+              "ToolTip": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\Views\\CalculatorView.xaml",
+              "RelativeToolTip": "PAMCalculator\\Views\\CalculatorView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T01:00:45.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\Models\\Calculator.cs",
+              "RelativeDocumentMoniker": "PAMCalculator\\Models\\Calculator.cs",
+              "ToolTip": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\Models\\Calculator.cs",
+              "RelativeToolTip": "PAMCalculator\\Models\\Calculator.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:23:37.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorView.xaml.cs",
+              "DocumentMoniker": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\Views\\CalculatorView.xaml.cs",
+              "RelativeDocumentMoniker": "PAMCalculator\\Views\\CalculatorView.xaml.cs",
+              "ToolTip": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\Views\\CalculatorView.xaml.cs",
+              "RelativeToolTip": "PAMCalculator\\Views\\CalculatorView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:02:24.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PAMCalculator\\AppShell.xaml",
+              "ToolTip": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\AppShell.xaml",
+              "RelativeToolTip": "PAMCalculator\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T01:04:18.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PAMCalculator.csproj",
+              "DocumentMoniker": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\PAMCalculator.csproj",
+              "RelativeDocumentMoniker": "PAMCalculator\\PAMCalculator.csproj",
+              "ToolTip": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\PAMCalculator.csproj",
+              "RelativeToolTip": "PAMCalculator\\PAMCalculator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T00:55:15.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PAMCalculator\\MainPage.xaml",
+              "ToolTip": "D:\\Renan Almeida 2DS\\2\u00B0 M\u00F3dulo\\Renan Almeida 2DS\\PAM\\PAMCalculator\\PAMCalculator\\MainPage.xaml",
+              "RelativeToolTip": "PAMCalculator\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T00:55:03.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PAMCalculator.Views.CalculatorView"
+             Title="CalculatorView">
+    <VerticalStackLayout Spacing="20">
+        <Label Text="Resultado"/>
+        <Entry Text="{Binding Resultado}" Placeholder="Resultado" Keyboard="Numeric" HorizontalOptions="Center" WidthRequest="100"/>
+        <Label Text="Primeiro Termo"/>
+        <Entry  Text="{Binding PrimeiroTermo}" Placeholder="1° Termo" Keyboard="Numeric" HorizontalOptions="Center" WidthRequest="100"/>
+        <Label Text="Segundo Termo"/>
+        <Entry Text="{Binding SegundoTermo}" Placeholder="2° Termo" Keyboard="Numeric" HorizontalOptions="Center" WidthRequest="100"/>
+
+        <Button
+            Text="Somar" Command="{Binding SomarCommand}"
+            WidthRequest="400"
+            
+            HorizontalOptions="Center"/>
+        
+        <Button 
+            Text="Subtrair" Command="{Binding SubtrairCommand}"
+            WidthRequest="400"
+            HorizontalOptions="Center"/>
+
+        <Button Text="Multiplicar" Command="{Binding MultiplicarCommand}"
+                WidthRequest="400"/>
+        
+        <Button Text="Dividir" Command="{Binding DividirCommand}"
+                WidthRequest="400"/>
+
+        <Button Text="Elevar" Command="{Binding ElevarCommand}"
+                WidthRequest="400"/>
+
+        <Button Text="Raiz" Command="{Binding RaizCommand}"
+                WidthRequest="400"/>
+
+
+
+
+
+    </VerticalStackLayout>
+</ContentPage>
